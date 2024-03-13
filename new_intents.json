@@ -1,0 +1,177 @@
+{
+    "conversations": [
+      {
+        "user": "Hi",
+        "bot": "Hey :-)"
+      },
+      {
+        "user": "Hey",
+        "bot": "Hello, thanks for visiting"
+      },
+      {
+        "user": "How are you",
+        "bot": "Hi there, what can I do for you?"
+      },
+      {
+        "user": "Is anyone there?",
+        "bot": "Hi there, how can I help?"
+      },
+      {
+        "user": "Hello",
+        "bot": "Is there anything I can help you."
+      },
+      {
+        "user": "Good day",
+        "bot": "Hello, thanks for visiting"
+      },
+      {
+        "user": "Bye",
+        "bot": "See you later, thanks for visiting"
+      },
+      {
+        "user": "See you later",
+        "bot": "Have a nice day"
+      },
+      {
+        "user": "Goodbye",
+        "bot": "Bye! Come back again soon."
+      },
+      {
+        "user": "Thanks",
+        "bot": "Happy to help!"
+      },
+      {
+        "user": "Thank you",
+        "bot": "Any time!"
+      },
+      {
+        "user": "That's helpful",
+        "bot": "My pleasure"
+      },
+      {
+        "user": "Thank's a lot!",
+        "bot": "Never mention, I am more thankful you contacted us."
+      },
+      {
+        "user": "Which items do you have?",
+        "bot": "We sell both veg and chicken pizzas."
+      },
+      {
+        "user": "What kinds of items are there?",
+        "bot": "You can get veg and finger-licking chicken pizzas."
+      },
+      {
+        "user": "What do you sell?",
+        "bot": "If you are non-veg, we can deliver you chicken pizza. If not, veg pizza is also on the menu."
+      },
+      {
+        "user": "What can I get from you?",
+        "bot": "We sell both veg and chicken pizzas."
+      },
+      {
+        "user": "What is available?",
+        "bot": "You can get veg and finger-licking chicken pizzas."
+      },
+      {
+        "user": "What is on the menu?",
+        "bot": "If you are non-veg, we can deliver you chicken pizza. If not, veg pizza is also on the menu."
+      },
+      {
+        "user": "Do you take credit cards?",
+        "bot": "We accept Paytm, Google Pay, and COD"
+      },
+      {
+        "user": "Do you accept Paytm?",
+        "bot": "You can Paytm and Google Pay us, or you can pay in cash."
+      },
+      {
+        "user": "Can I pay with Google Pay?",
+        "bot": "If you don't use online payment methods, you can pay us in cash. If you do, you may Paytm or Google Pay us."
+      },
+      {
+        "user": "Are you cash only?",
+        "bot": "For customer convenience, we accept Paytm, Google Pay, and cash."
+      },
+      {
+        "user": "Do you accept online payment?",
+        "bot": "We accept Paytm, Google Pay, and COD"
+      },
+      {
+        "user": "Can I order pay on delivery",
+        "bot": "You can Paytm and Google Pay us, or you can pay in cash."
+      },
+      {
+        "user": "Can you deliver the pizzas?",
+        "bot": "We deliver on every doorstep."
+      },
+      {
+        "user": "Do you make delivery?",
+        "bot": "Of course! We would be glad to deliver it to your address."
+      },
+      {
+        "user": "Is delivery available?",
+        "bot": "We deliver 24/7 in every place all over India."
+      },
+      {
+        "user": "What is special on the menu?",
+        "bot": "As per customer reviews, we recommend you to try New York Chicken Pizza."
+      },
+      {
+        "user": "Do you have any special?",
+        "bot": "New York Chicken Pizza is liked by most of the customers."
+      },
+      {
+        "user": "What do you recommend?",
+        "bot": "You definitely should try New York Chicken Pizza."
+      },
+      {
+        "user": "What's today's special?",
+        "bot": "You will never regret trying New York Chicken Pizza."
+      },
+      {
+        "user": "Recommend me special Pizza?",
+        "bot": "As per customer reviews, we recommend you to try New York Chicken Pizza."
+      },
+      {
+        "user": "How much does veg pizza cost?",
+        "bot": "It is Rs. 299 for Small, Rs. 399 for Medium, and Rs. 449 for Large."
+      },
+      {
+        "user": "Can I know the price of veg pizza?",
+        "bot": "You can get Small for Rs. 299, Medium for Rs. 399, and Large for Rs. 449."
+      },
+      {
+        "user": "I much do I pay for veg pizza?",
+        "bot": "The prices are Small-Rs. 299, Medium-Rs. 399, and Large-Rs. 449."
+      },
+      {
+        "user": "What is the cost of veg pizza?",
+        "bot": "It is Rs. 299 for Small, Rs. 399 for Medium, and Rs. 449 for Large."
+      },
+      {
+        "user": "What is the price of veg pizza?",
+        "bot": "You can get Small for Rs. 299, Medium for Rs. 399, and Large for Rs. 449."
+      },
+      {
+        "user": "How much does chicken pizza cost?",
+        "bot": "It is Rs. 349 for Small, Rs. 449 for Medium, and Rs. 549 for Large."
+      },
+      {
+        "user": "Can I know the price of chicken pizza?",
+        "bot": "You can get Small for Rs. 349, Medium for Rs. 449, and Large for Rs. 549."
+      },
+      {
+        "user": "I much do I pay for chicken pizza?",
+        "bot": "The prices are Small-Rs. 349, Medium-Rs. 449, and Large-Rs. 549."
+      },
+      {
+        "user": "What is the cost of chicken pizza?",
+        "bot": "It is Rs. 349 for Small, Rs. 449 for Medium, and Rs. 549 for Large."
+      },
+      {
+        "user": "What is the price of chicken pizza?",
+        "bot": "You can get Small for Rs. 349, Medium for Rs. 449, and Large for Rs. 549."
+      }
+      ]
+  }
+  
